@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73364439023",
+    "project_id": "car-accident-93dd9",
+    "storage_bucket": "car-accident-93dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73364439023:android:29320c0480f1fdf3bdc01a",
+        "android_client_info": {
+          "package_name": "com.project.car_accident"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73364439023-86eo8fnc21a9lhgu64e4a8f0r48kttm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3EK6i0AGf7z58KfrdWIYyf4LJbovFl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73364439023-86eo8fnc21a9lhgu64e4a8f0r48kttm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
